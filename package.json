@@ -1,7 +1,7 @@
 {
-	"name": "bitbucket-codeship-status",
-	"version": "1.0.11",
-	"description": "Small app that will automatically update newly created pull requests in Bitbucket with the branch's Codeship build status.",
+	"name": "bitbucket-ship.io-status",
+	"version": "1.0.0",
+	"description": "Small app that will automatically update newly created pull requests in Bitbucket with the branch's Ship.io build status.",
 	"main": "app.js",
 	"scripts": {
 		"test": "mocha",
@@ -12,18 +12,18 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/chesleybrown/bitbucket-codeship-status.git"
+		"url": "https://github.com/skylinezum/bitbucket-ship.io-status.git"
 	},
 	"keywords": [
 		"bitbucket",
-		"codeship"
+		"ship.io"
 	],
-	"author": "Chesley",
+	"author": "Jimmy",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/chesleybrown/bitbucket-codeship-status/issues"
+		"url": "https://github.com/skylinezum/bitbucket-ship.io-status/issues"
 	},
-	"homepage": "https://github.com/chesleybrown/bitbucket-codeship-status",
+	"homepage": "https://github.com/skylinezum/bitbucket-ship.io-status",
 	"dependencies": {
 		"body-parser": "^1.9.2",
 		"basic-auth-connect": "1.0.0",

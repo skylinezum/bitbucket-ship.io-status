@@ -1,9 +1,9 @@
 {
-	"name": "bitbucket-codeship-status",
-	"description": "Small app that will automatically update newly created pull requests in Bitbucket with the branch's Codeship build status.",
-	"repository": "https://github.com/chesleybrown/bitbucket-codeship-status",
-	"logo": "https://raw.githubusercontent.com/chesleybrown/bitbucket-codeship-status/master/media/logo.png",
-	"keywords": ["node", "express", "bitbucket", "codeship"],
+	"name": "bitbucket-ship.io-status",
+	"description": "Small app that will automatically update newly created pull requests in Bitbucket with the branch's Ship.io build status.",
+	"repository": "https://github.com/skylinezum/bitbucket-ship.io-status",
+	"logo": "https://raw.githubusercontent.com/skylinezum/bitbucket-ship.io-status/master/media/logo.png",
+	"keywords": ["node", "express", "bitbucket", "ship.io"],
 	"env": {
 		"BITBUCKET_USERNAME": {
 			"description": "Your Bitbucket username or team name.",
