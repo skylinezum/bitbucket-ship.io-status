@@ -6,8 +6,6 @@
 
 Small app that will automatically update newly created pull requests in Bitbucket with the branch's Ship.io build status.
 
-![What it looks like](https://raw.githubusercontent.com/chesleybrown/bitbucket-codeship-status/master/media/screenshot.png)
-
 # Running on Heroku
 
 First just deploy a free instance of the app on heroku using the button then just follow the steps below.
